@@ -28,7 +28,7 @@ The Travel Memory application is built using the MERN stack (MongoDB, Express.js
    node index.js &
    ```
 4. Backend application accessible at http://localhost:3001
-   ![Images/backend.png](Images/backend.png)
+   - ![Images/Backend.png](Images/Backend.png)
 5. Navigate to the frontend folder and create `.env`:
    ```bash
    cd TravelMemory/frontend
@@ -44,7 +44,7 @@ The Travel Memory application is built using the MERN stack (MongoDB, Express.js
    npm start &
    ```
 7. Access the frontend: `http://localhost:3000`.
-   ![Frontend](Images/frontend.png)
+   - ![Images/Frontend.png](Images/Frontend.png)
 
 ## 3. Integrate Prometheus
 1. Install Prometheus
