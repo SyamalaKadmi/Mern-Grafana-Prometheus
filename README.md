@@ -54,7 +54,7 @@ The Travel Memory application is built using the MERN stack (MongoDB, Express.js
    tar xvf prometheus*.tar.gz
    cd prometheus*/
    ```
-2. Create prometheus config [prometheus.yml](prometheus.yml)
+2. Create prometheus config [prometheus.yml](prometheus/prometheus.yml)
 3. Expose custom metrics in Node.js
    ``` bash
    cd backend
